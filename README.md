@@ -15,6 +15,7 @@
 - adding fonts 
 - float Property 
 - display property 
+- add media query for mobile responsive 
 
 
 >### Time Required to Complete This Project
