@@ -18,7 +18,7 @@
 > - flex property
 > - root property for color selection
 > - CSS Position Property
-> - How to Select any class throw CSS   Selector Property
+> - How to Select any class throw CSS Selector Property
 > - How to align any Content 
 > - adjust size of any image and text
 > - adding fonts 
