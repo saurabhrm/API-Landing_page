@@ -42,5 +42,5 @@
 
 
 
->## **[Live Project Link Click Here ](https://https://project9-api.netlify.app/)**
+>## **[Live Project Link Click Here ](https://project9-api.netlify.app/)**
 
